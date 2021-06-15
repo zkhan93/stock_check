@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Thingbits Raspberry Pi 4 2 GB In Stock",
+        "url": "https://www.thingbits.in/products/raspberry-pi-4-model-b-2-gb-ram",
+        "focus":[
+            {
+                "ele": "div",
+                "selector": {
+                    "data-hook": "product_right_part_wrap"
+                }
+            },
+            {
+                "ele": "div",
+                "selector": {
+                    "class": "text-uppercase price"
+                },
+                "contains": "in stock"
+            }
+        ]
+        
+    }
+]
